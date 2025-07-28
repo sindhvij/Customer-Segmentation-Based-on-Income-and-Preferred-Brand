@@ -60,5 +60,3 @@ This project applies unsupervised machine learning using k-means clustering to s
 
 ---
 
-## 📁 File Structure
-
